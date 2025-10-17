@@ -2,7 +2,7 @@
 
 **Project Type:** Unsupervised Machine Learning (Collaborative Filtering / Matrix Factorization)
 
-**Source Dataset:** [Book-Crossing Dataset (Users, Books, Ratings)] - *Link to your Google Drive or the original Kaggle source here.*
+**Source Dataset:** [Book-Crossing Dataset (Users, Books, Ratings)] - (https://drive.google.com/drive/folders/10JwvmaXZHiVH51zyxwa355YniPMTvWju?usp=drive_link)
 
 ## Project Overview
 This Capstone project designs and implements a high-accuracy **Collaborative Filtering** recommendation engine using **Singular Value Decomposition (SVD)**. The primary objective was to overcome the inherent **sparsity** and noise of large-scale interaction data to provide personalized book suggestions, thereby maximizing user engagement and book sales for a digital reading platform.
